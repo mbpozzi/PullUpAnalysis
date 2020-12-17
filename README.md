@@ -1,5 +1,5 @@
 # PullUpAnalysis
-Programs for data analysis from digitizing data for analyzing pull up 
+Simple program for data analysis from digitizing data from DLTdv8 and excel template for analyzing pull up including motion graphing, angular calculation, and video processing. 
 
 Capstone project for HBio 408. Goal was to analyze three different pull ups:
 1. Regular Pull Up
